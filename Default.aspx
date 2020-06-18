@@ -55,7 +55,7 @@
                                                             </div><!--end_mdc_text_field-->
                                                         </div><!--end_mdc-layout_grid__cell-->
                                                         <div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-12">
-                                                            <asp:Button ID="btnEntrar" class="mdc-button mdc-button--raised filled-button--dark  w-100" runat="server" Text="Entrar" onclick="BtnEntrar_Click"/>
+                                                            <asp:Button ID="btnEntrar" class="mdc-button mdc-button--raised filled-button--dark  w-100" runat="server" Text="Entrarr" onclick="BtnEntrar_Click"/>
                                                             
                                                         </div><!--end_mdc_layout_grid__cell-->
                                                     </div><!--edn_mdc_layout_grid__inner-->
